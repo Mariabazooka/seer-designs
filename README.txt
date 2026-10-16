@@ -1,16 +1,12 @@
-SEER SIX INTERFACES — EF PURPLE VERSION
+SEER SIX INTERFACES - FINAL (EF PURPLE)
 
-Files to upload into the ROOT of your existing GitHub repository Mariabazooka/seer-designs:
+Upload ALL of these into the ROOT of the GitHub repo Mariabazooka/seer-designs (replace existing):
 index.html, app.html, deep.html, futarchy.html, opportunity.html, risk.html, styles.css, app.js
 
-IMPORTANT: Replace the six existing HTML files and add/replace styles.css and app.js. Keep all eight files together in the repository root. GitHub Pages should continue using main / root.
-
-Public demo URLs after GitHub Pages finishes updating:
+Public demo URLs:
 https://mariabazooka.github.io/seer-designs/
 https://mariabazooka.github.io/seer-designs/app.html
 https://mariabazooka.github.io/seer-designs/deep.html
 https://mariabazooka.github.io/seer-designs/futarchy.html
 https://mariabazooka.github.io/seer-designs/opportunity.html
 https://mariabazooka.github.io/seer-designs/risk.html
-
-The design has a shared six-link navigation, responsive layout, interactive market search/filtering, watch buttons, and persistent dark/light theme. Market data is illustrative and labelled as such.
