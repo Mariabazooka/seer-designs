@@ -1,4 +1,4 @@
-SEER SIX INTERFACES — NEW VERSION
+SEER SIX INTERFACES — EF PURPLE VERSION
 
 Files to upload into the ROOT of your existing GitHub repository Mariabazooka/seer-designs:
 index.html, app.html, deep.html, futarchy.html, opportunity.html, risk.html, styles.css, app.js
